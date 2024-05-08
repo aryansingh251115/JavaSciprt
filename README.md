@@ -1,0 +1,2 @@
+# JavaSciprt
+Just learning JavaScript
